@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://preeminent-trifle-d23bac.netlify.app/](https://preeminent-trifle-d23bac.netlify.app/)
 
-- 💬 Ask me about **React,MERN**
+- 💬 Ask me about **Java,GitHub**
 
 - 📫 How to reach me **acharysagar01@gmail.com**
 
